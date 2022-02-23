@@ -1,0 +1,553 @@
+[
+  {
+    "title": "Greetings",
+    "tag": "greetings",
+    "items": [
+      {
+        "english": "Hello/Hi",
+        "sissali": "Hei",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "Good morning",
+        "sissali": "Ma dia",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "Good afternoon",
+        "sissali": "Ma wia",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "Good evening",
+        "sissali": "Ma wia",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "Goodnight",
+        "sissali": "Ma wia",
+        "audio_link": "",
+        "favurite": false
+      }
+        ,
+      {
+        "english": "How are you?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "i'm fine thanks",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "Good",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "Okay",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }  ,
+
+      {
+        "english": "Bad",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      } ,
+
+      {
+        "english": "Great!",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      } ,
+
+      {
+        "english": "i'm not well",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "I'm not well",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+
+      {
+        "english": "What's your name",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }  ,
+
+      {
+        "english": "My name is...",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      } ,
+
+      {
+        "english": "See you later",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+      ,
+
+      {
+        "english": "Goodbye",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+
+      {
+        "english": "Bye",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+
+      {
+        "english": "Take care",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "How about you?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "Nice to meet you",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }  ,
+      {
+        "english": "I'm pleased to meet you",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      } ,
+      {
+        "english": "It's been a while",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      } ,
+      {
+        "english": "Can you speak english?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I can speak Sissali a little",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I can't speak sissali",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'm from...",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How old are you?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'm 20 years old",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'm... years old",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+
+    ]
+  }
+  ,
+  {
+    "title": "Conversation",
+    "tag": "conversation",
+    "items": [
+      {
+        "english": "Yes",
+        "sissali": "o",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "No",
+        "sissali": "Ayi",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "Do you understand",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "I don't understand",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "I understand",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+        ,
+      {
+        "english": "Thank you",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "Please",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "I'm sorry(Apologize)",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "Please say that again",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }  ,
+
+      {
+        "english": "Can you repeat that?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      } ,
+
+      {
+        "english": "Can you speak slowly?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      } ,
+
+      {
+        "english": "I'm sorry(Sympathy)",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "It's alright(i'm okay)",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+
+      {
+        "english": "I don't know",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }  ,
+
+      {
+        "english": "I don't like it",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      } ,
+
+      {
+        "english": "I like it",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+      ,
+
+      {
+        "english": "You are welcome",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+
+      {
+        "english": "My pleasure",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+
+      {
+        "english": "I understand that",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "I would like/i want",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ,
+      {
+        "english": "I like",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }  ,
+      {
+        "english": "May i use your phone?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      } ,
+      {
+        "english": "Are you sure?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      } ,
+      {
+        "english": "What does this mean?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How do you pronounce this?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Could you write that down for me?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "No, thanks",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "No problem",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Help!",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Who?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "What?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How many?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How much?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How long?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Why?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Why not?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Which?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Where?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Is there?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Are there?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "What is this?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How much is this?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How much is this?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "What are you doing?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "What do you want?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Where are you going?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How long?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'm going to...?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Where are we going?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "what is happening now?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "When is your birth day?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+
+    ]
+  }
+]

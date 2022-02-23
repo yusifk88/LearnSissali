@@ -27,15 +27,15 @@
     <f7-row>
 
       <f7-col class="" width="30" v-for="menu in menus" :key="menu.route">
-        <div style="padding: 10px;">
-
+          <f7-list-item style="padding: 10px; list-style: none !important;" :link="menu.route">
           <center>
 
         <img :src="menu.icon" width="60"><br>
           {{menu.title}}
           </center>
 
-        </div>
+          </f7-list-item>
+
 
       </f7-col>
 
