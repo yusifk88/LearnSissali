@@ -1,0 +1,19 @@
+{
+  "cwd": "/Users/yusifkatulie/Applications/ls",
+  "type": [
+    "web"
+  ],
+  "name": "Lean Sissali",
+  "framework": "vue",
+  "template": "split-view",
+  "cssPreProcessor": "scss",
+  "bundler": "vite",
+  "theming": {
+    "customColor": true,
+    "color": "#2e86ab",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
