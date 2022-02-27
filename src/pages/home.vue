@@ -18,11 +18,43 @@
           search-container=".search-list"
           search-in=".item-title"
           :disable-button="!theme.aurora"
+          @searchbar:enable="searchOpen=true"
+          @searchbar:disable="searchOpen=false"
       ></f7-searchbar>
 
     </f7-navbar>
 
-    <f7-block margin>
+    <f7-list v-show="searchOpen" class="searchbar-not-found">
+      <f7-list-item title="Nothing found"></f7-list-item>
+    </f7-list>
+    <f7-list v-show="searchOpen" accordion-list class="search-list searchbar-found">
+
+      <f7-list-item accordion-item v-for="item in allList" :title="item.english">
+
+        <f7-accordion-content>
+          <f7-block>
+            <h2 style="color: #2e86ab" >
+              {{item.sissali}}
+            </h2>
+
+            <f7-row>
+              <f7-col>
+                <f7-button large x-small @click=""  ><f7-icon f7="play"></f7-icon></f7-button>
+
+              </f7-col>
+              <f7-col>
+                <f7-button large x-small @click=""  ><f7-icon f7="square_on_square"></f7-icon></f7-button>
+
+              </f7-col>
+            </f7-row>
+
+          </f7-block>
+        </f7-accordion-content>
+      </f7-list-item>
+
+    </f7-list>
+
+    <f7-block margin v-if="!searchOpen">
 
     <f7-row>
 
@@ -47,12 +79,14 @@
 </template>
 <script>
 import { theme } from 'framework7-vue';
+import categories from "../assets/categories.json";
 
   export default {
 
     data(){
       return{
         theme,
+        searchOpen:false,
 
         menus:[
           {
@@ -106,7 +140,7 @@ import { theme } from 'framework7-vue';
             route:"/view/colors"
           },
           {
-            title:"Cities",
+            title:"Cities/Capitals",
             icon:"/icons/city.png",
             route:"/view/cities"
           },
@@ -116,9 +150,9 @@ import { theme } from 'framework7-vue';
             route:"/view/countries"
           },
           {
-            title:"Tourist Attractions",
+            title:"Culture",
             icon:"/icons/gallery.png",
-            route:"/view/tourist"
+            route:"/view/culture"
           },
           {
             title:"Family",
@@ -139,17 +173,27 @@ import { theme } from 'framework7-vue';
             title:"Feeling Sick",
             icon:"/icons/sick.png",
             route:"/view/feelingsick"
-          },
-          {
-            title:"Tongue Twister",
-            icon:"/icons/rocket.png",
-            route:"/view/tongtwister"
           }
 
         ]
 
       }
-    }
+    },
+    computed:{
+      allList(){
+        let list=[];
+        categories.forEach(item=>{
+
+          item.items.forEach(i=>{
+            list.push(i);
+          });
+        });
+
+
+        return list;
+      }
+    },
+
 
 
   }

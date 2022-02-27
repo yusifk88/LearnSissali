@@ -8,161 +8,139 @@
         "sissali": "Hei",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "Good morning",
         "sissali": "Ma dia",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "Good afternoon",
         "sissali": "Ma wia",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "Good evening",
         "sissali": "Ma wia",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "Goodnight",
         "sissali": "Ma wia",
         "audio_link": "",
         "favurite": false
-      }
-        ,
+      },
       {
         "english": "How are you?",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "i'm fine thanks",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "Good",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "Okay",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }  ,
-
+      },
       {
         "english": "Bad",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      } ,
-
+      },
       {
         "english": "Great!",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      } ,
-
+      },
       {
         "english": "i'm not well",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "I'm not well",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-    ,
-
+      },
       {
         "english": "What's your name",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }  ,
-
+      },
       {
         "english": "My name is...",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      } ,
-
+      },
       {
         "english": "See you later",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-      ,
-
+      },
       {
         "english": "Goodbye",
         "sissali": "",
         "audio_link": "",
         "favurite": false
       },
-
       {
         "english": "Bye",
         "sissali": "",
         "audio_link": "",
         "favurite": false
       },
-
       {
         "english": "Take care",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "How about you?",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "Nice to meet you",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }  ,
+      },
       {
         "english": "I'm pleased to meet you",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      } ,
+      },
       {
         "english": "It's been a while",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      } ,
+      },
       {
         "english": "Can you speak english?",
         "sissali": "",
@@ -205,10 +183,8 @@
         "audio_link": "",
         "favurite": false
       }
-
     ]
-  }
-  ,
+  },
   {
     "title": "Conversation",
     "tag": "conversation",
@@ -218,161 +194,139 @@
         "sissali": "o",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "No",
         "sissali": "Ayi",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "Do you understand",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "I don't understand",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "I understand",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-        ,
+      },
       {
         "english": "Thank you",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "Please",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "I'm sorry(Apologize)",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "Please say that again",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }  ,
-
+      },
       {
         "english": "Can you repeat that?",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      } ,
-
+      },
       {
         "english": "Can you speak slowly?",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      } ,
-
+      },
       {
         "english": "I'm sorry(Sympathy)",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "It's alright(i'm okay)",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-    ,
-
+      },
       {
         "english": "I don't know",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }  ,
-
+      },
       {
         "english": "I don't like it",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      } ,
-
+      },
       {
         "english": "I like it",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-      ,
-
+      },
       {
         "english": "You are welcome",
         "sissali": "",
         "audio_link": "",
         "favurite": false
       },
-
       {
         "english": "My pleasure",
         "sissali": "",
         "audio_link": "",
         "favurite": false
       },
-
       {
         "english": "I understand that",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "I would like/i want",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }
-    ,
+      },
       {
         "english": "I like",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      }  ,
+      },
       {
         "english": "May i use your phone?",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      } ,
+      },
       {
         "english": "Are you sure?",
         "sissali": "",
         "audio_link": "",
         "favurite": false
-      } ,
+      },
       {
         "english": "What does this mean?",
         "sissali": "",
@@ -546,8 +500,4474 @@
         "sissali": "",
         "audio_link": "",
         "favurite": false
+      },
+      {
+        "english": "Don't forget...",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Excuse me",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Take care of yourself",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Before",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I want to go shopping before watching the movie",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "After",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'll watch a movie after going shopping",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Until",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I don;t have to go until tomorrow",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Do you live here?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Do you like it here?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I love it here",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'm here on holiday",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "On business",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "To work",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "To study",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Just Kidding!",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "This is my first time here",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "We are on our honeymoon",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ]
+  },
+  {
+    "title": "Numbers",
+    "tag": "numbers",
+    "items": [
+      {
+        "english": "zero",
+        "sissali": "Kun Tuo",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "One",
+        "sissali": "Kubala",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Two",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Three",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Four",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Five",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Six",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Seven",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Eight",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Nine",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Ten",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Eleven",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Twelve",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Thirteen",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Fourteen",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Fifteen",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Sixteen",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Seventeen",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Eighteen",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Nineteen",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Twenty",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Twenty one",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Twenty two",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Twenty three",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Twenty four",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Twenty five",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Twenty six",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Twenty seven",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Twenty eight",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Twenty nine",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Thirty",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Forty",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Fifty",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Sixty",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Seventy",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Eighty",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Ninety",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "One hundred",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Ten thousand",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Hundred thousand ",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "One million",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "First",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Second",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Third",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Fourth",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Fifth",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Sixth",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Seventh",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Eighth",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Ninth",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Tenth",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ]
+  },
+  {
+    "title": "Time & Date",
+    "tag": "timedate",
+    "items": [
+      {
+        "english": "What time is it?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "it's 10 o'clock",
+        "sissali": "Kubala",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "it's half past 10",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Quarter to 10",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "AM",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "PM",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "(1)hour",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Half an hour",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "5 minutes",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "2 seconds",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "At what time does it start?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "it starts at 9",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How many hours will take?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How many days would it take?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Midnight",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Noon",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Today",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Yesterday",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "The day before yesterday",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Tomorrow",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "The day after tomorrow",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Tonight",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Last Night",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Morning",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Afternoon",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Evening",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Now",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Soon",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "What day is today?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Monday",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Tuesday",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Wednesday",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Thursday",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Friday",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Saturday",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Sunday",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Which month are we in?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "January",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "February",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "March",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "April",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "May",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "June",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "July",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "August",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "September",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "October",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "November",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "December",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "This week",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Last week",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "This weekend",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Last weekend",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Next weekend",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "This month",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Next month",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Last month",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "This year",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Next year",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Last year",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Season",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Spring",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Summer",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Autumn",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Winter",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Monsoon",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ]
+  },
+  {
+    "title": "Direction & Places",
+    "tag": "direction",
+    "items": [
+      {
+        "english": "Where is ...?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How far is it?",
+        "sissali": "Kubala",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How do i get there?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can you show me where it is on the map?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "North",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "South",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "East",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "West",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Cross the street",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Turn left",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Turn right",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Up",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Down",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Go straight",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Left",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "on the left",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "On the right",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "In front of",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Behind",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "under",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "On top",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Opposite",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Near",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Far",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "On the corner",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "It's straight ahead",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Here",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "There",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Traffic lights",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Intersections",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Airport",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Bus stop",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Train station",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Tourist information",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Department store",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Bank",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "ATM/Cash Machine",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Hotel",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Internet cafe",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Market",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Supermarket",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Police station",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Post office",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Cinema",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Chemist/Pharmacy",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "School",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "House",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "3-minutes walk",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Go by taxi",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Overhead walkway",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Zebra crossing",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Bridge",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Road",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Tunnel",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Park",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Toilet/ Bathroom",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Where is the toilet",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Where is the chief palace",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ]
+  },
+  {
+    "title": "Transportation",
+    "tag": "transportation",
+    "items": [
+      {
+        "english": "Plane",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Airport shuttle",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Where do i buy ticket?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Ticket office",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Ticket machine",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Fare",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Ticket",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "One-way",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Return",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Train station",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Which station is this?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "What is the next station?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Does stop at..?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Do i need to change?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Which line goes to...?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Where is the nearest station?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Is it a direct train?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "First class",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Standard class",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Dining section",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Sleeping section",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Bus",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Bus stop",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Does this bus stop at...?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "what is the next stop?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'd like to get off here at...?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Boat",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Ferry",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How long is a trip to...?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "is there a fast boat?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Car",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Hire car",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'd like to hire a car",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How much for a day",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How much for a week?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Does it include insurance?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Taxi",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Please take me to..",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Please slow down",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Please stop here",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Please speed up",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Pleas wait here",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How much is it to...?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Motorbike",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Bicycle",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "School",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Do i need a helmet?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'm lost",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "May i use the phone",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ]
+  },
+  {
+    "title": "Hospitality",
+    "tag": "accommodation",
+    "items": [
+      {
+        "english": "Hotel",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Hostel",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Resort",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Guesthouse",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Condominium",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Luxury Hotel",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Youth Hostel",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Budget hotel",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Bed & breakfast",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Campsite",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Caravan park",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Holiday Cottage",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Where is the nearest hotel?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Where is the nearest guesthouse?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can you recommend somewhere good?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Nearby",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Cheap",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "In the city",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Do you have a room for tonight?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Double(Room)",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Suite",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Is there a safe?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Is there a water heater?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Is breakfast served?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How much per night?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How much per week?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How much for month?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "may is see it?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'll take it",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I have a room reservation",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "we've booked a room in the name of...",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Here's my passport",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'd like check-in",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'd like check-out",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "What time is the checkout?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i leave my bags here?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i change my room?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I want a room with a good view",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "is there a message for me?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I left my key in the room",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i do money exchange here?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i use the internet?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i use the laundry?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i use the kitchen?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i use the phone?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "School",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Is there internet here?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "The light is not working",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i have an extra bed?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How much is an extra bed per night?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Mobile phone",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "SIM card",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Do you have Wi-Fi?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "What is the password?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can you call a taxi for me?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I had a great day",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ]
+  },
+  {
+    "title": "Eating Out",
+    "tag": "eating",
+    "items": [
+      {
+        "english": "Breakfast",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Lunch",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Dinner",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Snack",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Food",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Meat",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Beef",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Chicken",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Egg",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Duck",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Pork",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Lamb",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Liver",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Seafood",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Fish",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Shrimp/Prawn",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Shellfish",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Mussels",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Sausages",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Bacon",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Ham",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Tuna",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Steak",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Vegetables",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Butter",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Yogurt",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Cheese",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Bread",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Biscuit",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Rice",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Soup",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Chicken",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Sugar",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Salt",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Pepper",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Beans",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Potatoes",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Tomatoes",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Onion",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Garlic",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Chili",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Ginger",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Roast chicken",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Roast beef",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Stew",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Local dishes",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Pork roast",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Fork",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Knife",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Spoon",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Glass",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Wine glass",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Tea cup",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Teapot",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Big bowl",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Small bowl",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Plate",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Napkin",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Hot(temperature)",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Cold",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Delicious",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Taste",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Sweat",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Salty",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Sour",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Tasteless",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Greasy",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'm hungry",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'm full",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Very delicious",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I love this dish",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "What is it called?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "This is delicious",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'm a vegetarian",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Restaurant",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Make reservation(for table)",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'd like a table for two please",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i have a menu?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i have a drink menu?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "What do you recommend?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i order some food?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I don't eat meat?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I don't eat eggs?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'm allergic to...",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Nuts",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Peanuts",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Butter",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Honey",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'd like it with...",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'd like it without...",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'd like it without out",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i have the bill please",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "It's service charge included?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Take away/ Take home",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "To drink",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "To eat",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Side dishes",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Deserts",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "More water please",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "More water please",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "(1)large bottle of beer, please",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "(2)small bottle of beer, please",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Coffee",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Water",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Milk",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Juice",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Orange juice",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Vegetable juice",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Tomato juice",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Alcoholic drinks",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Beer",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Wine",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Cheers!",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I feel drunk",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I don't feel very well",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I've had too many drinks",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "you've had too many drinks",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ]
+  },
+  {
+    "title": "Shopping",
+    "tag": "shopping",
+    "items": [
+      {
+        "english": "Where is the nearest market?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Market",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Grocery store",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How much does cost",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can you write down the price?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can you make it cheaper?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Cash",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i have it wrapped?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'm just looking",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "it's little too expensive",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "It's very cheap",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Do you have different colour?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Do you have it bigger?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Do you have it smaller?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can try it on?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "A little tight",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "A little loose",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i have this in size...?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "S",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "M",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "L",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "XL",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Where can i pay?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "May in have the receipt?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Too short",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Too long",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "It doesn't fit",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I will take this one",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I don't want a bag",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i have a bag please?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'm looking for...",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Gift",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Belt",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Hat",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Dress",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Shirt",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Shoes",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Sandals",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Socks",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Shorts",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Skirt",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Scarf",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Jacket",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Coat",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "High heels",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Boots",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Swimwear",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Underwear",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Bras",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Towel",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Jeans",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Trousers",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Leather",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Cotton",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Silk",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Wool",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I don't want it",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I will think about it",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Wallet)",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Watch",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Glasses",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Sunglasses",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Ring",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Earrings",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Necklace",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Bracelet",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Camera",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Computer",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Home appliances",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Fruits",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Banana",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Apple",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Grapes",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Pawpaw",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Orange",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Mango",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Guava",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Coconut",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Watermelon",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Laundry",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Shoe shop",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Bookshop",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Flower shop",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How much is it?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Money",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Price",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Expensive",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Cheap",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Pay",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Change",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Handbags",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Tobacco",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Cigarettes",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Perfume",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ]
+  },
+  {
+    "title": "Colours",
+    "tag": "colors",
+    "items": [
+      {
+        "english": "Dark colour",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Light colour",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Black",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Brown",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Gray",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Red",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Green",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Yellow",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Blue",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Pink",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Purple",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Orange",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "White",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Dark blue",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Gold",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Silver",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ]
+  }
+ , {
+    "title": "Cities/Capitals",
+    "tag": "cities",
+    "items": [
+      {
+        "english": "Accra",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Kumasi",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Sunyani",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Obuasi",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Bolga-Tanga",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Tamale",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Wa",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Tumu",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Bole",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Koforidua",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Cape Coast",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Dambai",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Nalerigu",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Goaso",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Techiman",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ]
+  }
+ , {
+    "title": "Countries",
+    "tag": "countries",
+    "items": [
+      {
+        "english": "America",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Nigeria",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Burkina Faso",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Benin",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Togo",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Mali",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Côte d'Ivoire",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Sierra leon",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Britain",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "England",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Kenya",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
       }
 
+    ]
+  }
+ , {
+    "title": "Culture",
+    "tag": "culture",
+    "items": [
+      {
+        "english": "What time does it open?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "What time does it close?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "DO i have to pay to get in?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i take photos?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Community center",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Market square",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Farmers festival",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Festival",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "War dance",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Drums",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Costume",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Xylophone",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Marriage Ceremony",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Naming Ceremony",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Chief",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Chief linguists",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Hunter",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Hunters",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Worriers",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Food store",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "TZ",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Corn/Maize",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Millet",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+
+    ]
+  }
+ , {
+    "title": "Family",
+    "tag": "family",
+    "items": [
+      {
+        "english": "Family",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "How many are you in your family?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Do you have...?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "This is my...",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Brother",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Elder brother",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Younger Brother",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Sister",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Elder sister",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Younger sister",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Mother",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Father",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Son",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Daughter",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Grandson",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Granddaughter",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Grandmother",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Grandfather",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Uncle",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Aunt",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Nephew",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Niece",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Husband",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Wife",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Boyfriend",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Friend",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Relative",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Parents",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Cousin",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Adopted child",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Stepchild",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Stepparent",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Foster-child",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Foster-parent",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Fiancé/e",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Partner",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+
+    ]
+  }
+ , {
+    "title": "Dating",
+    "tag": "dating",
+    "items": [
+      {
+        "english": "I'm single",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Do you have a girlfriend?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "DO you have a boyfriend?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Are you single?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Are you married?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Would you like to something together?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Would you like to go for a walk with me?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Would you like to watch a movie?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'm available tomorrow?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i buy you a drink?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "What would you drink?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Will i see you again?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Do you mind if sit here(to join someone)",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I like you very much",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I love you",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "You are very cute",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "You are very beautiful",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "You are great",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i call you?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "DO you have a condom?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I have a condom",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I won't do it without a condom",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Will you go out with me?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Propose(marriage)",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Will you marry me?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Yes i'd love to",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Sorry i can't",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'm busy",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Rejections",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Stop calling me",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Are you see someone else?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I don't think it is working out",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I don't want to see you again",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ]
+  }
+ , {
+    "title": "Emergency",
+    "tag": "emergency",
+    "items": [
+      {
+        "english": "It's an emergency",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I have lost my passport",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I have lost my wallet",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Where is the... embassy?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Help!",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Where is the hospital?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I need a doctor",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Call a doctor",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Call and ambulance!",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Ambulance",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Could you help me please?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Hospital",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Emergency",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Fire!",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I have run out gas/petrol",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "i'm lost, please help",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Police station",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Police",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I have been mugged",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I have lost my camera",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I have lost my bag!",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "My phone was stolen",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Stop",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Thief!",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I apologise",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "i have travel insurance",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Can i use your telephone?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I need to call...",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Report a missing person",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "My child has gone missing",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "My wife is missing",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "My husband is missing",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'm sorry(feeling)",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I didn't do it",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Does anyone here speak Sissali?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
+    ]
+  }
+ , {
+    "title": "Feeling Sick",
+    "tag": "feelingsick",
+    "items": [
+      {
+        "english": "Where is the nearest hospital?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Chemist/Pharmacy",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Dentist",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Doctor",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Medical center",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Eye doctor",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'm not feeling well",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I'm sick",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I have a cold",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Headache",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Stomachache",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Backache",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Asthma",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Cough",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Constipation",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Diabetes",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Diarrhoea",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Fever",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Flu",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Food poisoning",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Allergy",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Do you have a pain killer?",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Medicine",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Vomit",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I feel dizzy",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I felt dizzy",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Weak",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Anxious",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Nauseous",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Shivery",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Worse",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Better",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "it hurts here",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I can't sleep",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I have run out of medication",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "This is my usual medication",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I need a doctor who can speak Sissali",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I was vaccinated",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I have travel insurance",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Clinic",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Nurse",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Surgeon",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Blood pressure",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Temperature",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Injection",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Operation",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Sprain",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I think it is broken",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "I have a skin allergy",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Antiseptic",
+        "sissali": "",
+        "audio_link": "",
+        "favurite": false
+      }
     ]
   }
 ]

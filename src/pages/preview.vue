@@ -60,9 +60,14 @@ export default {
 
   computed:{
     category(){
-      return this.categories.find(cat=>{
+      let item= this.categories.find(cat=>{
         return cat.tag === this.f7route.params.category
       });
+
+
+       return item;
+
+
     }
   },
   mounted() {
