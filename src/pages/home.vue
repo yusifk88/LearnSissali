@@ -5,9 +5,9 @@
       <f7-nav-left>
         <f7-link icon-ios="f7:menu" icon-aurora="f7:menu" icon-md="material:menu" panel-open="left"></f7-link>
       </f7-nav-left>
-      <f7-nav-title sliding>Learn Sissali</f7-nav-title>
+      <f7-nav-title sliding>Ln Sissali</f7-nav-title>
 
-      <f7-nav-title-large>Learn Sissali</f7-nav-title-large>
+      <f7-nav-title-large>Ln Sissali</f7-nav-title-large>
       <f7-nav-right>
         <f7-link class="searchbar-enable" data-searchbar=".searchbar-demo" icon-ios="f7:search" icon-aurora="f7:search" icon-md="material:search"></f7-link>
       </f7-nav-right>
@@ -27,7 +27,7 @@
     <f7-list v-show="searchOpen" class="searchbar-not-found">
       <f7-list-item title="Nothing found"></f7-list-item>
     </f7-list>
-    <f7-list v-show="searchOpen" accordion-list class="search-list searchbar-found">
+    <f7-list irtual-list v-show="searchOpen" accordion-list class="search-list searchbar-found">
 
       <f7-list-item accordion-item v-for="item in allList" :title="item.english">
 
@@ -87,6 +87,7 @@ import categories from "../assets/categories.json";
       return{
         theme,
         searchOpen:false,
+        allList:[],
 
         menus:[
           {
@@ -193,7 +194,20 @@ import categories from "../assets/categories.json";
         return list;
       }
     },
+    mounted() {
 
+
+      let list=[];
+      categories.forEach(item=>{
+
+        item.items.forEach(i=>{
+          list.push(i);
+        });
+      });
+
+      this.allList= list;
+
+    }
 
 
   }

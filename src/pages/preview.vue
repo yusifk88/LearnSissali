@@ -2,7 +2,7 @@
   <f7-page name="about">
     <f7-navbar no-shadow :title="category.title" back-link="Back"></f7-navbar>
 
-      <f7-list accordion-list>
+      <f7-list accordion-list style="margin-top: 0 !important; margin-bottom: 0 !important;"  >
         <f7-list-item accordion-item :title="cat.english" v-for="cat in category.items">
           <f7-accordion-content>
             <f7-block>
