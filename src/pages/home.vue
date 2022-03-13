@@ -33,9 +33,9 @@
 
         <f7-accordion-content>
           <f7-block>
-            <h2 style="color: #2e86ab" >
+            <h1 style="color: #2e86ab; font-weight: normal;" >
               {{item.sissali}}
-            </h2>
+            </h1>
 
             <f7-row>
               <f7-col>
@@ -59,16 +59,16 @@
     <f7-row>
 
       <f7-col class="" width="30" v-for="menu in menus" :key="menu.route">
-          <f7-list-item style="padding: 10px; list-style: none !important;" :link="menu.route">
+
+        <f7-button round :href="menu.route" style="width: 100%; padding: 2px; height: 120px; font-size: 10px">
+
           <center>
 
-        <img :src="menu.icon" width="60"><br>
+        <img :src="menu.icon" width="60" alt="" style="display: block;"/>
           {{menu.title}}
           </center>
 
-          </f7-list-item>
-
-
+        </f7-button>
       </f7-col>
 
     </f7-row>
@@ -111,7 +111,7 @@ import categories from "../assets/categories.json";
             route:"/view/timedate"
           },
           {
-            title:"Direction & places",
+            title:"Directions",
             icon:"/icons/map.png",
             route:"/view/direction"
           },

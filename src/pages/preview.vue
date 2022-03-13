@@ -6,9 +6,9 @@
         <f7-list-item accordion-item :title="cat.english" v-for="cat in category.items">
           <f7-accordion-content>
             <f7-block>
-              <h2 style="color: #2e86ab" >
+              <h1 style="color: #2e86ab; font-weight: normal;" >
               {{cat.sissali}}
-              </h2>
+              </h1>
 
               <f7-row>
                 <f7-col>
