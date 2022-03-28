@@ -229,13 +229,13 @@
       },
       {
         "english": "I don't understand",
-        "sissali": "",
+        "sissali": "mi bi tia sia",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "I understand",
-        "sissali": "",
+        "sissali": "mi tia sia nɛ",
         "audio_link": "",
         "favurite": false
       },
@@ -307,19 +307,19 @@
       },
       {
         "english": "You are welcome",
-        "sissali": "",
+        "sissali": "Ani ŋ lɔliŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "My pleasure",
-        "sissali": "",
+        "sissali": "Mi tuɔtɔriŋ lɛ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "I understand that",
-        "sissali": "",
+        "sissali": "Mi laa di ŋii lɛ",
         "audio_link": "",
         "favurite": false
       },
@@ -337,7 +337,7 @@
       },
       {
         "english": "May I use your phone?",
-        "sissali": "",
+        "sissali": "Mi jaŋ wo la ŋ tɛrɛbul ŋa wi?",
         "audio_link": "",
         "favurite": false
       },
@@ -367,7 +367,7 @@
       },
       {
         "english": "No, thanks",
-        "sissali": "",
+        "sissali": "Aba, ŋ lɔliŋ",
         "audio_link": "",
         "favurite": false
       },
@@ -622,12 +622,6 @@
       {
         "english": "This is my first time here",
         "sissali": "Mi tapul buŋbuŋ ni daha",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "We are on our honeymoon",
-        "sissali": "",
         "audio_link": "",
         "favurite": false
       }
@@ -945,7 +939,7 @@
       },
       {
         "english": "Tenth",
-        "sissali": "Femiŋ",
+        "sissali": "Fimiŋ",
         "audio_link": "",
         "favurite": false
       }
@@ -1012,7 +1006,7 @@
       },
       {
         "english": "it starts at 9",
-        "sissali": "U suomi Kerifi neewe lɛ nɛ",
+        "sissali": "U suomi Kerifi niwi lɛ nɛ",
         "audio_link": "",
         "favurite": false
       },
@@ -1096,7 +1090,7 @@
       },
       {
         "english": "Evening",
-        "sissali": "Didanin",
+        "sissali": "Didaniŋ",
         "audio_link": "",
         "favurite": false
       },
@@ -1108,7 +1102,7 @@
       },
       {
         "english": "Soon",
-        "sissali": "",
+        "sissali": "u ŋa mua",
         "audio_link": "",
         "favurite": false
       },
@@ -1120,43 +1114,43 @@
       },
       {
         "english": "Monday",
-        "sissali": "",
+        "sissali": "Ataani",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Tuesday",
-        "sissali": "",
+        "sissali": "Atalata",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Wednesday",
-        "sissali": "",
+        "sissali": "Alariba",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Thursday",
-        "sissali": "",
+        "sissali": "Alamisi",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Friday",
-        "sissali": "",
+        "sissali": "Azuma",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Saturday",
-        "sissali": "",
+        "sissali": "Asibiri",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Sunday",
-        "sissali": "",
+        "sissali": "Laadi",
         "audio_link": "",
         "favurite": false
       },
@@ -1360,13 +1354,13 @@
       },
       {
         "english": "How do I get there?",
-        "sissali": "ɛ nɛ mi jaŋ ŋaa mu dimi?",
+        "sissali": "ɛ mi jaŋ ŋaa mu dimi?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Can you show me where it is on the map?",
-        "sissali": "ŋ jaŋ wuo daki mi dimi u si hɛ lere-teniŋ tuouŋ?",
+        "sissali": "ŋ jaŋ wo daki mi dimi u si hɛ lere-teniŋ tuouŋ?",
         "audio_link": "",
         "favurite": false
       },
@@ -1492,13 +1486,13 @@
       },
       {
         "english": "On the corner",
-        "sissali": "",
+        "sissali": "Sɛŋkɛrɛ lɛ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "It's straight ahead",
-        "sissali": "",
+        "sissali": "U hɛ sipaŋ",
         "audio_link": "",
         "favurite": false
       },
@@ -1510,52 +1504,31 @@
       },
       {
         "english": "There",
-        "sissali": "",
+        "sissali": "Dimi",
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Traffic lights",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Intersections",
-        "sissali": "",
+        "sissali": "Wombi-chɛwɛ",
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Airport",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Bus stop",
-        "sissali": "",
+        "sissali": "Lori di chiniŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Train station",
-        "sissali": "",
+        "sissali": "Train di chiniŋ",
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Tourist information",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Department store",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Bank",
         "sissali": "",
@@ -1574,12 +1547,7 @@
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Internet cafe",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Market",
         "sissali": "Yɔbɔ",
@@ -1588,7 +1556,7 @@
       },
       {
         "english": "Supermarket",
-        "sissali": "",
+        "sissali": "Yɔbɔ-wie",
         "audio_link": "",
         "favurite": false
       },
@@ -1606,13 +1574,13 @@
       },
       {
         "english": "Cinema",
-        "sissali": "",
+        "sissali": "Cinee de beniŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Chemist/Pharmacy",
-        "sissali": "",
+        "sissali": "Dalusiŋ di yaŋliŋ",
         "audio_link": "",
         "favurite": false
       },
@@ -1640,18 +1608,7 @@
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Overhead walkway",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Zebra crossing",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Bridge",
         "sissali": "",
@@ -1664,21 +1621,16 @@
         "audio_link": "",
         "favurite": false
       },
+
       {
-        "english": "Tunnel",
-        "sissali": "",
+        "english": "Toilet",
+        "sissali": "Biniŋ di-nyɛŋ",
         "audio_link": "",
         "favurite": false
       },
       {
-        "english": "Park",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Toilet/ Bathroom",
-        "sissali": "",
+        "english": "Bathroom",
+        "sissali": "Lii fori-dia",
         "audio_link": "",
         "favurite": false
       },
