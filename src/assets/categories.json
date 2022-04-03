@@ -1108,7 +1108,7 @@
       },
       {
         "english": "What day is today?",
-        "sissali": "Jiniŋ ŋa chɛbɛ nɛ",
+        "sissali": "Jiniŋ ŋa chɛbɛ nɛ?",
         "audio_link": "",
         "favurite": false
       },
@@ -1162,109 +1162,109 @@
       },
       {
         "english": "January",
-        "sissali": "",
+        "sissali": "Pupulipa",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "February",
-        "sissali": "",
+        "sissali": "Wulumbele",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "March",
-        "sissali": "",
+        "sissali": "Wulunniiŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "April",
-        "sissali": "",
+        "sissali": "Siiŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "May",
-        "sissali": "",
+        "sissali": "Zagibele",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "June",
-        "sissali": "",
+        "sissali": "Zaginiiŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "July",
-        "sissali": "",
+        "sissali": "jiɛrɛ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "August",
-        "sissali": "",
+        "sissali": "Jepua",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "September",
-        "sissali": "",
+        "sissali": "Gbanchaanɛ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "October",
-        "sissali": "",
+        "sissali": "Kuŋaabɛ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "November",
-        "sissali": "",
+        "sissali": "Mitaarechɛnɛ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "December",
-        "sissali": "",
+        "sissali": "Bagasieu",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "This week",
-        "sissali": "",
+        "sissali": "Yɔbɔ deŋ tuɔŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Last week",
-        "sissali": "",
+        "sissali": "Yɔbɔ la si bala",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "This weekend",
-        "sissali": "",
+        "sissali": "Yɔbɔ deŋ chɛdɛriŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Last weekend",
-        "sissali": "Harin yɔbɔ",
+        "sissali": "Yɔbɔ la si bala chɛdɛriŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Next weekend",
-        "sissali": "Yɔbɔ la sii kɔ",
+        "sissali": "Yɔbɔ la sii kɔ chɛdɛriŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "This month",
-        "sissali": "chɛnɛ den",
+        "sissali": "chɛnɛ deŋ",
         "audio_link": "",
         "favurite": false
       },
@@ -1276,7 +1276,7 @@
       },
       {
         "english": "Last month",
-        "sissali": "Harin chɛnɛ",
+        "sissali": "Harin la si bala",
         "audio_link": "",
         "favurite": false
       },
@@ -1298,42 +1298,20 @@
         "audio_link": "",
         "favurite": false
       },
+
       {
-        "english": "Season",
-        "sissali": "",
+        "english": "Dry season",
+        "sissali": "Tafaaŋ",
         "audio_link": "",
         "favurite": false
       },
       {
-        "english": "Spring",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Summer",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Autumn",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Winter",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Monsoon",
-        "sissali": "",
+        "english": "Rainy season",
+        "sissali": "Yibiiniŋ",
         "audio_link": "",
         "favurite": false
       }
+
     ]
   },
   {
@@ -1366,25 +1344,25 @@
       },
       {
         "english": "North",
-        "sissali": "",
+        "sissali": "Wupɔsuŋ nadiiŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "South",
-        "sissali": "",
+        "sissali": "Wupɔsuŋ nagua",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "East",
-        "sissali": "",
+        "sissali": "Wupɔsuŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "West",
-        "sissali": "",
+        "sissali": "Wupjuuluŋ",
         "audio_link": "",
         "favurite": false
       },
@@ -1529,24 +1507,6 @@
         "favurite": false
       },
 
-      {
-        "english": "Bank",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "ATM/Cash Machine",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Hotel",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
 
       {
         "english": "Market",
@@ -2218,12 +2178,6 @@
         "favurite": false
       },
       {
-        "english": "School",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
         "english": "Is there internet here?",
         "sissali": "",
         "audio_link": "",
@@ -2307,15 +2261,10 @@
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Snack",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Food",
-        "sissali": "",
+        "sissali": "Kudile",
         "audio_link": "",
         "favurite": false
       },
@@ -2393,7 +2342,7 @@
       },
       {
         "english": "Mussels",
-        "sissali": "",
+        "sissali": "Naŋpiliŋ",
         "audio_link": "",
         "favurite": false
       },
@@ -3825,139 +3774,129 @@
     "items": [
       {
         "english": "What time does it open?",
-        "sissali": "",
+        "sissali": "Bua bɛ lɛ nɛ ba suri",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "What time does it close?",
-        "sissali": "",
+        "sissali": "Bua bɛ lɛ nɛ ba see",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Do I have to pay to get in?",
-        "sissali": "",
+        "sissali": "U maki mi teeŋ nɛ aŋ na wo ju?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Can I take photos?",
-        "sissali": "",
+        "sissali": "Mi jaŋ wo keri foto?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Community center",
-        "sissali": "",
+        "sissali": "Biliŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Market square",
-        "sissali": "",
+        "sissali": "Yɔbɔ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Farmers festival",
-        "sissali": "",
+        "sissali": "Paara gbiele",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Festival",
-        "sissali": "",
+        "sissali": "Gbiele",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "War dance",
-        "sissali": "",
+        "sissali": "Naŋkpaana",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Drums",
-        "sissali": "",
+        "sissali": "Gugoniŋ",
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Costume",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Xylophone",
-        "sissali": "",
+        "sissali": "Jeŋsiŋ",
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Marriage Ceremony",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Naming Ceremony",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Chief",
-        "sissali": "",
+        "sissali": "Kuoro",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Chief linguists",
-        "sissali": "",
+        "sissali": "Kuro Naŋzua",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Hunter",
-        "sissali": "",
+        "sissali": "Naŋbakli",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Hunters",
-        "sissali": "",
+        "sissali": "Naŋbakla",
+        "audio_link": "",
+        "favurite": false
+      },
+      {
+        "english": "Hunting",
+        "sissali": "Naŋbakliŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Worriers",
-        "sissali": "",
+        "sissali": "Yuo yuoro",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Food store",
-        "sissali": "",
+        "sissali": "Vuuriŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "TZ",
-        "sissali": "",
+        "sissali": "Kuliŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Corn/Maize",
-        "sissali": "",
+        "sissali": "Kuorimia",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Millet",
-        "sissali": "",
+        "sissali": "Mia",
         "audio_link": "",
         "favurite": false
       }

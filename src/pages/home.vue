@@ -80,6 +80,7 @@
 <script>
 import { theme } from 'framework7-vue';
 import categories from "../assets/categories.json";
+import store from "../js/store";
 
   export default {
 
@@ -88,6 +89,7 @@ import categories from "../assets/categories.json";
         theme,
         searchOpen:false,
         allList:[],
+        store,
 
         menus:[
           {
@@ -198,7 +200,7 @@ import categories from "../assets/categories.json";
 
 
       let list=[];
-      categories.forEach(item=>{
+      this.store.state.all.forEach(item=>{
 
         item.items.forEach(i=>{
           list.push(i);

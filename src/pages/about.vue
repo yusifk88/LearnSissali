@@ -4,12 +4,12 @@
     <f7-block-title>About Ln Sissali</f7-block-title>
     <f7-block strong>
       <p>
-        "Ln Sissali" pronounced learn Sissali is a community-sourced project meant to simplify the learning curve of the sissili
-        dialect, the aim of this project is to make it easier to lookup words in English and find their sissali equivalents.
+        "Ln Sissali" pronounced learn Sissali is a community-sourced project meant to simplify the learning curve of the Sissili
+        dialect, the aim of this project is to make it easier to lookup words in English and find their Sissali equivalents.
       </p>
       <h2>What it is.</h2>
       <p>
-        Ln sissali is meant to be your guide to what an everyday word or phrase may mean in sissali, it is also meant to help complete non-speakers
+        Ln Sissali is meant to be your guide to what an everyday word or phrase may mean in Sissali, it is also meant to help complete non-speakers
         easily make up conversations with native speakers.
       </p>
       <h2>What it is NOT</h2>
@@ -24,16 +24,13 @@
         <f7-card-header
             class="no-border"
             valign="bottom"
-            style="background-image:url(https://cdn.framework7.io/placeholder/people-1000x600-6.jpg)"
+            :style='"background-image:url("+person.photo_url+")"'
         >{{person.name}}</f7-card-header>
         <f7-card-content>
           <p class="date">{{person.title}}</p>
           <p>{{person.profession}}</p>
         </f7-card-content>
-        <f7-card-footer>
-          <f7-link>Like</f7-link>
-          <f7-link>Read more</f7-link>
-        </f7-card-footer>
+
       </f7-card>
     </f7-block>
     <f7-block>
@@ -50,17 +47,22 @@ export default {
         {
           name:"Haruna Kuri",
           title:"Project coordinator",
-          profession:"Professional Teacher"
+          profession:"Professional Teacher",
+          photo_url:"/people/kuri.jpeg"
         },
         {
           name:"Emanuela Lieku",
           title:"Translator",
-          profession:"Fashion designer"
+          profession:"Fashion designer",
+          photo_url:"/people/ema.jpeg"
+
         },
         {
           name:"Yusif katulie",
           title:"Developer",
-          profession:"Senior software engineer"
+          profession:"Senior software engineer",
+          photo_url:"/people/yusif.jpeg"
+
         },
 
       ]
@@ -73,7 +75,7 @@ export default {
 
 <style>
 .demo-card-header-pic .card-header {
-  height: 40vw;
+  height: 80vw;
   background-size: cover;
   background-position: center;
   color: #fff;

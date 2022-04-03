@@ -33,6 +33,8 @@
 <script>
 import categories from "../assets/categories.json";
 import {theme} from "framework7-vue";
+import store from "../js/store";
+
 export default {
   name: "preview",
   props: {
@@ -43,7 +45,8 @@ export default {
     return{
       theme,
       categories,
-      list:[]
+      list:[],
+      store
     }
   },
 
@@ -52,7 +55,6 @@ export default {
     getList(){
       this.categories
           .then(res=>{
-            console.log(res);
           })
     }
 
@@ -60,12 +62,9 @@ export default {
 
   computed:{
     category(){
-      let item= this.categories.find(cat=>{
-        return cat.tag === this.f7route.params.category
-      });
-
-
-       return item;
+      return this.store.state.all.find(cat => {
+         return cat.tag === this.f7route.params.category
+       });
 
 
     }
