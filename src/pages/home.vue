@@ -147,11 +147,7 @@ import store from "../js/store";
             icon:"/icons/city.png",
             route:"/view/cities"
           },
-          {
-            title:"Countries",
-            icon:"/icons/globe.png",
-            route:"/view/countries"
-          },
+
           {
             title:"Culture",
             icon:"/icons/gallery.png",
