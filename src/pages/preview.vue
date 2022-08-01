@@ -9,14 +9,13 @@
               <h1 style="color: #2e86ab; font-weight: normal;" >
               {{cat.sissali}}
               </h1>
-
               <f7-row>
                 <f7-col>
-                  <f7-button large x-small @click=""  ><f7-icon f7="play"></f7-icon></f7-button>
 
+                  <play-btn :item="cat"></play-btn>
                 </f7-col>
                   <f7-col>
-                    <f7-button large x-small @click=""  ><f7-icon f7="square_on_square"></f7-icon></f7-button>
+                    <copy-btn :content="cat.sissali"></copy-btn>
 
                   </f7-col>
               </f7-row>
@@ -34,9 +33,12 @@
 import categories from "../assets/categories.json";
 import {theme} from "framework7-vue";
 import store from "../js/store";
+import CopyBtn from "../components/CopyBtn.vue";
+import PlayBtn from "../components/PlayBtn.vue";
 
 export default {
   name: "preview",
+  components: {PlayBtn, CopyBtn},
   props: {
     f7route: Object,
     f7router: Object,

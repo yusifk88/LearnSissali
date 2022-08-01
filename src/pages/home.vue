@@ -142,11 +142,11 @@ import store from "../js/store";
             icon:"/icons/colors.png",
             route:"/view/colors"
           },
-          {
-            title:"Cities/Capitals",
-            icon:"/icons/city.png",
-            route:"/view/cities"
-          },
+          // {
+          //   title:"Cities/Capitals",
+          //   icon:"/icons/city.png",
+          //   route:"/view/cities"
+          // },
 
           {
             title:"Culture",
@@ -158,21 +158,21 @@ import store from "../js/store";
             icon:"/icons/family.png",
             route:"/view/family"
           },
-          {
-            title:"Dating",
-            icon:"/icons/dating.png",
-            route:"/view/dating"
-          },
-          {
-            title:"Emergency",
-            icon:"/icons/alert.png",
-            route:"/view/emergency"
-          },
-          {
-            title:"Feeling Sick",
-            icon:"/icons/sick.png",
-            route:"/view/feelingsick"
-          }
+          // {
+          //   title:"Dating",
+          //   icon:"/icons/dating.png",
+          //   route:"/view/dating"
+          // },
+          // {
+          //   title:"Emergency",
+          //   icon:"/icons/alert.png",
+          //   route:"/view/emergency"
+          // },
+          // {
+          //   title:"Feeling Sick",
+          //   icon:"/icons/sick.png",
+          //   route:"/view/feelingsick"
+          // }
 
         ]
 

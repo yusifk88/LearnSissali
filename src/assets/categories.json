@@ -78,7 +78,7 @@
       },
       {
         "english": "Okay",
-        "sissali": "Tau",
+        "sissali": "Tɔ",
         "audio_link": "",
         "favurite": false
       },
@@ -96,7 +96,7 @@
       },
       {
         "english": "I'm not well",
-        "sissali": "Me be deye",
+        "sissali": "Me bi deye",
         "audio_link": "",
         "favurite": false
       },
@@ -115,7 +115,7 @@
       },
       {
         "english": "See you later",
-        "sissali": "La jaŋ na dɔŋɔ maakyie",
+        "sissali": "La jaŋ na dɔŋɔ maachie",
         "audio_link": "",
         "favurite": false
       },
@@ -168,17 +168,12 @@
         "favurite": false
       },
       {
-        "english": "I can speak Sissali a little?",
+        "english": "Can you speak Sissali a little?",
         "sissali": "ŋ jaŋ wo bul sissaliŋ muah?",
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "I can't speak sissali?",
-        "sissali": "ŋ jaŋ wo bul sissaliŋ?",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "I'm from...",
         "sissali": "Me lii...",
@@ -211,7 +206,7 @@
     "items": [
       {
         "english": "Yes",
-        "sissali": "o",
+        "sissali": "oo",
         "audio_link": "",
         "favurite": false
       },
@@ -253,7 +248,7 @@
       },
       {
         "english": "I'm sorry(Apologize)",
-        "sissali": "Mi kyeye nɛ",
+        "sissali": "Mi cheye nɛ",
         "audio_link": "",
         "favurite": false
       },
@@ -299,12 +294,7 @@
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "I like it",
-        "sissali": "Mi kyou",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "You are welcome",
         "sissali": "Ani ŋ lɔliŋ",
@@ -331,7 +321,7 @@
       },
       {
         "english": "I like",
-        "sissali": "Mi kyo",
+        "sissali": "Mi Cho",
         "audio_link": "",
         "favurite": false
       },
@@ -349,7 +339,7 @@
       },
       {
         "english": "What does this mean?",
-        "sissali": "U bubuɔŋ ni bɛ",
+        "sissali": "U bubuɔŋ ni bɛ?",
         "audio_link": "",
         "favurite": false
       },
@@ -549,7 +539,7 @@
       },
       {
         "english": "After",
-        "sissali": "Kyiemiŋ",
+        "sissali": "Chie",
         "audio_link": "",
         "favurite": false
       },
@@ -561,7 +551,7 @@
       },
       {
         "english": "Until",
-        "sissali": "Mei",
+        "sissali": "Sei",
         "audio_link": "",
         "favurite": false
       },
@@ -663,7 +653,7 @@
       },
       {
         "english": "Five",
-        "sissali": "Norŋ",
+        "sissali": "Nɔŋ",
         "audio_link": "",
         "favurite": false
       },
@@ -681,73 +671,73 @@
       },
       {
         "english": "Eight",
-        "sissali": "Kyore",
+        "sissali": "Chore",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Nine",
-        "sissali": "Nibi",
+        "sissali": "Niwi",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Ten",
-        "sissali": "Fe",
+        "sissali": "Fi",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Eleven",
-        "sissali": "Fe-Diaŋ",
+        "sissali": "FiDiaŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Twelve",
-        "sissali": "Fe-lia",
+        "sissali": "Filia",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Thirteen",
-        "sissali": "Fe-tore",
+        "sissali": "Fitore",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Fourteen",
-        "sissali": "Fe-nasi",
+        "sissali": "Finasi",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Fifteen",
-        "sissali": "Fe-norŋ",
+        "sissali": "Finɔŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Sixteen",
-        "sissali": "Fe-du",
+        "sissali": "Fidu",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Seventeen",
-        "sissali": "Fe-Pɛ",
+        "sissali": "FiPɛ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Eighteen",
-        "sissali": "Fe-kyore",
+        "sissali": "Fichore",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Nineteen",
-        "sissali": "Fe-nibi",
+        "sissali": "Finiwi",
         "audio_link": "",
         "favurite": false
       },
@@ -759,97 +749,97 @@
       },
       {
         "english": "Twenty one",
-        "sissali": "Marah-ni-kubala",
+        "sissali": "Marah ni kubala",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Twenty two",
-        "sissali": "Marah-ni-balia",
+        "sissali": "Marah ni balia",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Twenty three",
-        "sissali": "Marah-ni-batore",
+        "sissali": "Marah ni batore",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Twenty four",
-        "sissali": "Marah-ni-banase",
+        "sissali": "Marah ni banase",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Twenty five",
-        "sissali": "Marah-ni-banorŋ",
+        "sissali": "Marah ni banɔŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Twenty six",
-        "sissali": "Marah-ni-baldu",
+        "sissali": "Marah ni baldu",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Twenty seven",
-        "sissali": "Marah-ni-balpɛ",
+        "sissali": "Marah ni balpɛ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Twenty eight",
-        "sissali": "Marah-ni-kyore",
+        "sissali": "Marah ni Chore",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Twenty nine",
-        "sissali": "Marah-ni-nibi",
+        "sissali": "Marah ni niwi",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Thirty",
-        "sissali": "Marah-ni-fe",
+        "sissali": "Marah ni fi",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Forty",
-        "sissali": "Masiŋ-balia",
+        "sissali": "Maŋsiŋ balia",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Fifty",
-        "sissali": "Masiŋ-ba-lia ni fe",
+        "sissali": "Maŋsiŋ balia ni f1",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Sixty",
-        "sissali": "Masiŋ-batore",
+        "sissali": "Maŋsiŋ batore",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Seventy",
-        "sissali": "Masiŋ-batore ni fe",
+        "sissali": "Maŋsiŋ batore ni fi",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Eighty",
-        "sissali": "Masiŋ-banasi",
+        "sissali": "Maŋsiŋ banasi",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Ninety",
-        "sissali": "Masiŋ-banasi ni fe",
+        "sissali": "Maŋiŋ banasi ni fi",
         "audio_link": "",
         "favurite": false
       },
@@ -867,13 +857,13 @@
       },
       {
         "english": "Ten thousand",
-        "sissali": "Bui-fe",
+        "sissali": "Bui f1",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Hundred thousand",
-        "sissali": "Bui-zɔlɔ",
+        "sissali": "Bui zɔlɔ",
         "audio_link": "",
         "favurite": false
       },
@@ -885,7 +875,7 @@
       },
       {
         "english": "First",
-        "sissali": "Buŋ-Buŋ",
+        "sissali": "Buŋ Buŋ",
         "audio_link": "",
         "favurite": false
       },
@@ -897,19 +887,19 @@
       },
       {
         "english": "Third",
-        "sissali": "Toremiŋ",
+        "sissali": "Torimiŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Fourth",
-        "sissali": "Nasemiŋ",
+        "sissali": "Nasimiŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Fifth",
-        "sissali": "Normiŋ",
+        "sissali": "Nɔmiŋ",
         "audio_link": "",
         "favurite": false
       },
@@ -927,7 +917,7 @@
       },
       {
         "english": "Eighth",
-        "sissali": "Kyoremiŋ",
+        "sissali": "Choremiŋ",
         "audio_link": "",
         "favurite": false
       },
@@ -1276,7 +1266,7 @@
       },
       {
         "english": "Last month",
-        "sissali": "Harin la si bala",
+        "sissali": "chɛnɛ la si bala",
         "audio_link": "",
         "favurite": false
       },
@@ -1338,31 +1328,31 @@
       },
       {
         "english": "Can you show me where it is on the map?",
-        "sissali": "ŋ jaŋ wo daki mi dimi u si hɛ lere-teniŋ tuouŋ?",
+        "sissali": "ŋ jaŋ wo daki mi dimi u si hɛ lere-teniŋ tuɔŋ?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "North",
-        "sissali": "Wupɔsuŋ nadiiŋ",
+        "sissali": "Wipɔsuŋ nadiiŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "South",
-        "sissali": "Wupɔsuŋ nagua",
+        "sissali": "Wipɔsuŋ nagua",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "East",
-        "sissali": "Wupɔsuŋ",
+        "sissali": "Wipɔsuŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "West",
-        "sissali": "Wupjuuluŋ",
+        "sissali": "Wipɔjuuliŋ",
         "audio_link": "",
         "favurite": false
       },
@@ -1374,13 +1364,13 @@
       },
       {
         "english": "Turn left",
-        "sissali": "joŋ ŋ naguouŋ",
+        "sissali": "joŋ ŋ naguɔŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Turn right",
-        "sissali": "joŋ ŋ nadeeŋ",
+        "sissali": "joŋ ŋ nadiiŋ",
         "audio_link": "",
         "favurite": false
       },
@@ -1392,7 +1382,7 @@
       },
       {
         "english": "Down",
-        "sissali": "Bubuorŋ",
+        "sissali": "Bubuɔŋ",
         "audio_link": "",
         "favurite": false
       },
@@ -1404,19 +1394,19 @@
       },
       {
         "english": "Left",
-        "sissali": "naguouŋ",
+        "sissali": "naguɔŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "on the left",
-        "sissali": "Naguouŋ lɛ",
+        "sissali": "Naguɔŋ lɛ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "On the right",
-        "sissali": "Nadeeŋ lɛ",
+        "sissali": "Nadiiŋ lɛ",
         "audio_link": "",
         "favurite": false
       },
@@ -1434,7 +1424,7 @@
       },
       {
         "english": "under",
-        "sissali": "Bubuouŋ",
+        "sissali": "Bubuɔŋ",
         "audio_link": "",
         "favurite": false
       },
@@ -1489,7 +1479,7 @@
 
       {
         "english": "Intersections",
-        "sissali": "Wombi-chɛwɛ",
+        "sissali": "Wombichɛwɛ",
         "audio_link": "",
         "favurite": false
       },
@@ -1502,7 +1492,7 @@
       },
       {
         "english": "Train station",
-        "sissali": "Train di chiniŋ",
+        "sissali": "Chehe di chiniŋ",
         "audio_link": "",
         "favurite": false
       },
@@ -1526,12 +1516,7 @@
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Post office",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Cinema",
         "sissali": "Cinee de beniŋ",
@@ -1571,7 +1556,7 @@
 
       {
         "english": "Bridge",
-        "sissali": "",
+        "sissali": "kadorigo",
         "audio_link": "",
         "favurite": false
       },
@@ -1645,13 +1630,7 @@
       },
       {
         "english": "Return",
-        "sissali": "miiri ko birimii",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Train station",
-        "sissali": "Train dichiniŋ",
+        "sissali": "miiri",
         "audio_link": "",
         "favurite": false
       },
@@ -1664,7 +1643,7 @@
       },
       {
         "english": "Do I need to change?",
-        "sissali": "U maka di mi ",
+        "sissali": "U maka di mi brimi?",
         "audio_link": "",
         "favurite": false
       },
@@ -1821,331 +1800,238 @@
     "items": [
       {
         "english": "Hotel",
-        "sissali": "",
+        "sissali": "Nihuara dia",
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Hostel",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Resort",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Guesthouse",
-        "sissali": "",
+        "sissali": "Nihuara dia",
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Condominium",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Luxury Hotel",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Youth Hostel",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Budget hotel",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Bed & breakfast",
-        "sissali": "",
+        "sissali": "Dipiniŋ ani Neebiŋliŋ",
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Campsite",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Caravan park",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Holiday Cottage",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Where is the nearest hotel?",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
+
       {
         "english": "Where is the nearest guesthouse?",
-        "sissali": "",
+        "sissali": "Nia nɛ nihuara dipiniŋ la si kpaki daha hɛ?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Can you recommend somewhere good?",
-        "sissali": "",
+        "sissali": "ŋ jaŋ wo daki mi di zɔmuŋ?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Nearby",
-        "sissali": "",
+        "sissali": "Dikpakiŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Cheap",
-        "sissali": "",
+        "sissali": "Mɔli",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "In the city",
-        "sissali": "",
+        "sissali": "Tɔ baliŋ tuɔŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Do you have a room for tonight?",
-        "sissali": "",
+        "sissali": "ŋ kɛŋ dipiniŋ nɛ jiniŋ titaŋiŋ?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Double(Room)",
-        "sissali": "",
+        "sissali": "Nia baŋlia dipiniŋ",
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Suite",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Is there a safe?",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Is there a water heater?",
-        "sissali": "",
+        "sissali": "Liiŋ dichɔŋ hɛ dimi?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Is breakfast served?",
-        "sissali": "",
+        "sissali": "Neebiŋliŋ kɔ nɛ?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "How much per night?",
-        "sissali": "",
+        "sissali": "Titaŋiŋ ŋaa baŋmwɛ nɛ?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "How much per week?",
-        "sissali": "",
+        "sissali": "Yɔbɔ ŋaa baŋmwɛ nɛ?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "How much for month?",
-        "sissali": "",
+        "sissali": "Chɛnɛ ŋaa baŋmwɛ nɛ?",
         "audio_link": "",
         "favurite": false
       },
       {
-        "english": "may is see it?",
-        "sissali": "",
+        "english": "May i see it?",
+        "sissali": "Mi jaŋ wo bene na?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "I'll take it",
-        "sissali": "",
+        "sissali": "Mi jaŋ la",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "I have a room reservation",
-        "sissali": "",
+        "sissali": "Mi la dipiniŋ bill nɛ",
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "we've booked a room in the name of...",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Here's my passport",
-        "sissali": "",
+        "sissali": "Na mi wombiŋ teniŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "I'd like check-in",
-        "sissali": "",
+        "sissali": "Mi chɛ di mi juu nɛ",
         "audio_link": "",
         "favurite": false
       },
       {
-        "english": "I'd like check-out",
-        "sissali": "",
+        "english": "I'd like checkout",
+        "sissali": "Mi chɛ di mi lii nɛ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "What time is the checkout?",
-        "sissali": "",
+        "sissali": "Bua bɛ lɛ nɛ ŋ lii?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Can I leave my bags here?",
-        "sissali": "",
+        "sissali": "Mi jaŋ wo leŋ mi lɔkɔ ba daha?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Can I change my room?",
-        "sissali": "",
+        "sissali": "Mi jaŋ wo la dipiniŋ fɛliŋ?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "I want a room with a good view",
-        "sissali": "",
+        "sissali": "Mi chɛ dipiniŋ si kɛŋ di beniŋ zɔmuŋ nɛ",
         "audio_link": "",
         "favurite": false
       },
       {
-        "english": "is there a message for me?",
-        "sissali": "",
+        "english": "Is there a message for me?",
+        "sissali": "ŋ kɛŋ tindaariŋ pimi nɛ?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "I left my key in the room",
-        "sissali": "",
+        "sissali": "Mi leŋ mi saafi nɛ dia tuɔŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Can I do money exchange here?",
-        "sissali": "",
+        "sissali": "Mi jaŋ wo brimi mi moribiŋ daha?",
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Can I use the internet?",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Can I use the laundry?",
-        "sissali": "",
+        "sissali": "Mi jaŋ wo chasi gɛŋniŋ?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Can I use the kitchen?",
-        "sissali": "",
+        "sissali": "Mi jaŋ wo chɔ kudiile?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Can I use the phone?",
-        "sissali": "",
+        "sissali": "Mi ja wo ŋaa wii ani tɛrɛbul?",
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Is there internet here?",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "The light is not working",
-        "sissali": "",
+        "sissali": "Nyiniŋ bi tiŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Can I have an extra bed?",
-        "sissali": "",
+        "sissali": "Mi jaŋ wo na kupiniŋ dɔŋɔ pɛ?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "How much is an extra bed per night?",
-        "sissali": "",
+        "sissali": "Kupiniŋ dɔŋɔ ŋaa baŋmwɛ nɛ?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Mobile phone",
-        "sissali": "",
+        "sissali": "Tɛrɛbul",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "SIM card",
-        "sissali": "",
+        "sissali": "Tɛrɛbul biiŋ",
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Do you have Wi-Fi?",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "What is the password?",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Can you call a taxi for me?",
-        "sissali": "",
+        "sissali": "ŋ jaŋ wo yiri lori pimi?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "I had a great day",
-        "sissali": "",
+        "sissali": "Mi nii sima jiniŋ",
         "audio_link": "",
         "favurite": false
       }
@@ -2157,7 +2043,7 @@
     "items": [
       {
         "english": "Breakfast",
-        "sissali": "Nee-biŋliŋ",
+        "sissali": "Neebiŋliŋ",
         "audio_link": "",
         "favurite": false
       },
@@ -2322,7 +2208,7 @@
       },
       {
         "english": "Tomatoes",
-        "sissali": "ŋtosi",
+        "sissali": "Kelime",
         "audio_link": "",
         "favurite": false
       },
@@ -2413,12 +2299,7 @@
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Plate",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Napkin",
         "sissali": "Garikɔsiŋ",
@@ -2588,7 +2469,7 @@
       },
       {
         "english": "I'd like it without...",
-        "sissali": "Mi jaŋ u ni...?",
+        "sissali": "Mi bi jan cho u ni...?",
         "audio_link": "",
         "favurite": false
       },
@@ -2620,12 +2501,6 @@
       {
         "english": "To eat",
         "sissali": "A di",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Side dishes",
-        "sissali": "",
         "audio_link": "",
         "favurite": false
       },
@@ -2792,12 +2667,6 @@
       {
         "english": "It's very cheap",
         "sissali": "U yaliŋ sima paa",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Do you have different colour?",
-        "sissali": "",
         "audio_link": "",
         "favurite": false
       },
@@ -3224,98 +3093,54 @@
     "tag": "colors",
     "items": [
       {
-        "english": "Dark colour",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Light colour",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
         "english": "Black",
-        "sissali": "",
+        "sissali": "Bine",
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Brown",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Gray",
-        "sissali": "",
+        "sissali": "Kubuku",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Red",
-        "sissali": "",
+        "sissali": "kufiaŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Green",
-        "sissali": "",
+        "sissali": "Jɔgiliiŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Yellow",
-        "sissali": "",
+        "sissali": "sumunuŋ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Blue",
-        "sissali": "",
+        "sissali": "Buluu",
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Pink",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Purple",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Orange",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
+
       {
         "english": "White",
-        "sissali": "",
+        "sissali": "Pula",
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Dark blue",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Gold",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Silver",
-        "sissali": "",
+        "sissali": "Sɛlimɛ",
         "audio_link": "",
         "favurite": false
       }
@@ -3558,61 +3383,55 @@
     "items": [
       {
         "english": "Family",
-        "sissali": "",
+        "sissali": "Diania",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "How many are you in your family?",
-        "sissali": "",
+        "sissali": "ŋ dia nia ŋaa baŋmwɛ nɛ?",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Do you have...?",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "This is my...",
-        "sissali": "",
+        "sissali": "ŋ kɛŋ...",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Brother",
-        "sissali": "",
+        "sissali": "Dibaala",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Elder brother",
-        "sissali": "",
+        "sissali": "Maala",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Younger Brother",
-        "sissali": "",
+        "sissali": "ŋaana",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Sister",
-        "sissali": "",
+        "sissali": "Naŋbi hal",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Elder sister",
-        "sissali": "",
+        "sissali": "Malma",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Younger sister",
-        "sissali": "",
+        "sissali": "ŋaana",
         "audio_link": "",
         "favurite": false
       },
@@ -3678,13 +3497,13 @@
       },
       {
         "english": "Nephew",
-        "sissali": "",
+        "sissali": "ŋaana bie/Malma bie",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Niece",
-        "sissali": "",
+        "sissali": "ŋaana bie/Malma bie",
         "audio_link": "",
         "favurite": false
       },
@@ -3702,73 +3521,50 @@
       },
       {
         "english": "Boyfriend",
-        "sissali": "",
+        "sissali": "Hiila",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Friend",
-        "sissali": "",
+        "sissali": "Naŋdɔŋɔ",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Relative",
-        "sissali": "",
+        "sissali": "Naŋbie",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Parents",
-        "sissali": "",
+        "sissali": "Naŋ ni nyiŋma",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Cousin",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Adopted child",
-        "sissali": "",
+        "sissali": "Niara Bie",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Stepchild",
-        "sissali": "",
+        "sissali": "Hadɔŋɔ Bie",
         "audio_link": "",
         "favurite": false
       },
       {
         "english": "Stepparent",
-        "sissali": "",
+        "sissali": "Naaŋ Hadɔŋɔ/Nyiŋma Badɔŋɔ",
         "audio_link": "",
         "favurite": false
       },
-      {
-        "english": "Foster-child",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Foster-parent",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
+
       {
         "english": "Fiancé/e",
-        "sissali": "",
-        "audio_link": "",
-        "favurite": false
-      },
-      {
-        "english": "Partner",
-        "sissali": "",
+        "sissali": "Hiila",
         "audio_link": "",
         "favurite": false
       }

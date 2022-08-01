@@ -48,7 +48,7 @@
                 <img src="/icons/search.svg" height="200">
                 <h1 style="font-weight: normal; color: #08AC96;">Let's search for it</h1>
                 <h2 style="font-weight: lighter; line-height: 25px">
-                  We make is easy to search for that English word to find out how it is spelt and pronounced in Sissali...
+                  We make it easy to search for that English word to find out how it is spelt and pronounced in Sissali...
                 </h2>
 
               </f7-swiper-slide>
